@@ -1,0 +1,1000 @@
+  456  cd
+  457  cd Desktop/git/Repo/Golang/exercises/patterns/
+  458  go run no_pyramid.go 
+  459  git add no_pyramid.go 
+  460  git commit -m "Number Pyramid"
+  461  git push origin master
+  462  cd Desktop/git/Repo/C/Beautiful-divisors/
+  463  cd ..
+  464  git pull origin master
+  465  cd Pattern/
+  466  gcc star_halfpyramid.c 
+  467  ./a.out
+  468  gcc no_halfpyramid.c 
+  469  ./a.out
+  470  gcc char_halfpyramid.c 
+  471  ./a.out
+  472  gcc star_halfpyramid.c 
+  473  ./a.out
+  474  gcc star_halfpyramid.c 
+  475  ./a.out
+  476  gcc star_halfpyramid.c 
+  477  ./a.out
+  478  gcc star_halfpyramid.c 
+  479  ./a.out
+  480  gcc star_halfpyramid.c 
+  481  ./a.out
+  482  gcc no_halfpyramid.c 
+  483  ./a.out
+  484  gcc no_halfpyramid.c 
+  485  ./a.out
+  486  gcc star_fullpyramid.c 
+  487  ./a.out
+  488  gcc star_fullpyramid.c 
+  489  ./a.out
+  490  gcc star_fullpyramid.c 
+  491  ./a.out
+  492  gcc star_fullpyramid.c 
+  493  ./a.out
+  494  gcc no_fullpyramid.c 
+  495  ./a.out
+  496  gcc no_fullpyramid.c 
+  497  ./a.out
+  498  gcc no_fullpyramid.c 
+  499  ./a.out
+  500  gcc no_fullpyramid.c 
+  501  ./a.out
+  502  gcc no_fullpyramid.c 
+  503  ./a.out
+  504  gcc no_fullpyramid.c 
+  505  ./a.out
+  506  gcc no_fullpyramid.c 
+  507  ./a.out
+  508  gcc no_fullpyramid.c 
+  509  ./a.out
+  510  gcc no_fullpyramid.c 
+  511  ./a.out
+  512  gcc no_fullpyramid.c 
+  513  ./a.out
+  514  gcc no_fullpyramid.c 
+  515  ./a.out
+  516  git add -A
+  517  git add *
+  518  git commit -m "Different Patterns"
+  519  git push origin master
+  520  cd ..
+  521  cd BLS-Multisignature/
+  522  git stash
+  523  git pull
+  524  git stash apply
+  525  git commit -m "Message"
+  526  git stash
+  527  git pull
+  528  git stash apply
+  529  git commit -m "Message"
+  530  git push origin master
+  531  cd ..
+  532  cd Repo/
+  533  git clone https://github.com/manishas053/BLS-Multisignature.git
+  534  cd BLS-Multisignature/
+  535  git rm data_structures/
+  536  git rm -r data_structures/
+  537  git rm -r exercises/
+  538  git commit -m "Removed Other Directories"
+  539  git push origin master
+  540  cd ..
+  541  cd Golang/
+  542  git clone https://github.com/manishas053/Golang.git
+  543  cd ..
+  544  cd 
+  545  cd Desktop/git/Repo/
+  546  git clone https://github.com/manishas053/Golang.git
+  547  cd Golang/
+  548  git add README.md
+  549  git commit -m 
+  550  git commit -m "Changed README file"
+  551  git push origin master
+  552  git add *
+  553  git commit -m "Directories"
+  554  git push origin master
+  555  cd exercises/patterns/
+  556  go run no_pyramid.go 
+  557  git Desktop/git/Repo/Golang/exercises/
+  558  cd Desktop/git/Repo/Golang/exercises/
+  559  ls
+  560  git pull
+  561  cd Hungry-Student-Problem/
+  562  atom main.go 
+  563  cd Desktop/gowork/src/google.golang.org/grpc/examples/
+  564  cd bls/
+  565  go run server/server_main.go
+  566  cd
+  567  cd Desktop/git/Repo/BLS-Multisignature/
+  568  git pull
+  569  ls
+  570  cd BLS-grpc/bls/
+  571  ls
+  572  cd ..
+  573  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  574  go run server/server_main.go 
+  575  gedit server/server_main.go 
+  576  gedit bls/bls.p
+  577  gedit bls/bls.proto 
+  578  go run server/server_main.go 
+  579  cd 
+  580  cd Desktop/git/Repo/Golang/exercises/patterns/
+  581  go run amcat.go 
+  582  go run server/server_main.go 
+  583  go run amcat.go 
+  584  git add amcat.go 
+  585  git commit -m "Amcat Pattern"
+  586  git pushh origin master
+  587  git push origin master
+  588  cd Desktop/git/Repo/C
+  589  git pull
+  590  cd ..
+  591  cd Golang/
+  592  git pull
+  593  cd ..
+  594  cd BLS-Multisignature/
+  595  git pull
+  596  cd ..
+  597  cd C/Pattern/
+  598  gcc ccc.c 
+  599  ./a.out
+  600  gcc ccc.c 
+  601  ./a.out
+  602  cd ..
+  603  cd Boxes-Packing/
+  604  git add pack.c 
+  605  git commit -m "Boxes Packing Problem"
+  606  git push origin master
+  607  cd ..
+  608  cd Pattern/
+  609  git add cts.c 
+  610  git commit -m "Message"
+  611  git push origin master
+  612  cd ..
+  613  cd Boxes-Packing/
+  614  git add pack.c 
+  615  git rm -r pack.c 
+  616  git push origin master
+  617  git rm -r pack.c 
+  618  cd ..
+  619  git rm -r Boxes-Packing/
+  620  git commit -m "Removed"
+  621  git push origin master
+  622  cd Boxes-Packing/
+  623  git add pack.c 
+  624  git commit -m "Indendation"
+  625  git push origin master
+  626  cd /home/maneesha/Desktop/testng/
+  627  gcc 0fPIC -shared -o preload.so preload.c -ldl
+  628  gcc -fPIC -shared -o preload.so preload.c -ldl
+  629  LD_PRELOAD=./preload.so ./creat_test rohith.txt 
+  630  makee creat_test
+  631  make creat_test
+  632  LD_PRELOAD=./preload.so ./creat_test rohith.txt 
+  633  chmod 777 creat_test
+  634  LD_PRELOAD=./preload.so ./creat_test rohith.txt 
+  635  gcc -fPIC -shared -o preload.so preload.c -ldl
+  636  LD_PRELOAD=./preload.so ./creat_test rohith.txt 
+  637  gcc -fPIC -shared -o preload.so preload.c -ldl
+  638  LD_PRELOAD=./preload.so ./creat_test rohith.txt 
+  639  make ro_daemon
+  640  ./ro_daemon 
+  641  make ro_daemon
+  642  ./ro_daemon 
+  643  cd Desktop/
+  644  chmod 344 new/
+  645  cd new/
+  646  ls
+  647  touch rohith.txt
+  648  gedit rohith.txt
+  649  ls
+  650  man creat
+  651  cd Desktop/git/Repo/C/Pattern/
+  652  gcc cts.c 
+  653  ./a.out
+  654  gcc cts.c 
+  655  ./a.out
+  656  gcc cts.c 
+  657  ./a.out
+  658  gcc cts.c 
+  659  ./a.out
+  660  gcc cts.c 
+  661  ./a.out
+  662  gcc cts.c 
+  663  ./a.out
+  664  gcc cts.c 
+  665  ./a.out
+  666  gcc cts.c 
+  667  ./a.out
+  668  gcc cts.c 
+  669  ./a.out
+  670  gcc cts.c 
+  671  ./a.out
+  672  git add cts.c 
+  673  git commit -m "Done"
+  674  git push origin master
+  675  cd ..
+  676  cd Golang/
+  677  ls
+  678  cd exercises/patterns/
+  679  ls
+  680  go run cts.go 
+  681  git add cts.go 
+  682  git commit -m "Changed"
+  683  git push origin  master
+  684  cd..
+  685  cd ..
+  686  cd Rounding/
+  687  go run rounding.go 
+  688  git add rounding.go 
+  689  git commit -m "Rounding Problem"
+  690  git push origin master
+  691  cd ..
+  692  cd BLS-Multisignature/
+  693  cd BLS-grpc/
+  694  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  695  go run client2/server2_main.go 
+  696  go run server/server_main.go 
+  697  cd server/
+  698  git add server_main.go 
+  699  git commit -m "Error"
+  700  git push origin master
+  701  cd ..
+  702  git pull
+  703  cd Desktop/git/Repo/Golang/exercises/Apples_Oranges/
+  704  go run sorting.go 
+  705  git add sorting.go 
+  706  git commit -m "Apples and Oranges"
+  707  git push origin master
+  708  sudo apt-get update
+  709  cd /etc/apt/apt.conf.d/
+  710  ls
+  711  sudo apt-get update
+  712  cd /home/maneesha/Desktop/final/testng
+  713  make ro_daemon
+  714  ./ro_daemon
+  715  chmod 777 ro_daemon
+  716  ./ro_daemon
+  717  make ro_daemon
+  718  ./ro_daemon
+  719  make ro_daemon
+  720  ./ro_daemon
+  721  make ro_daemon
+  722  ./ro_daemon
+  723  make ro_daemon
+  724  ./ro_daemon
+  725  cd /home/maneesha/Desktop/final/testng
+  726  gcc -fPIC -shared -o preload.so preload.c -ldl
+  727  make creat_test
+  728  gcc -fPIC -shared -o preload.so preload.c -ldl
+  729  LD_PRELOAD=./preload.so ./creat_test rohith.txt 
+  730  chmod 777 creat_test
+  731  gcc -fPIC -shared -o preload.so preload.c -ldl
+  732  LD_PRELOAD=./preload.so ./creat_test rohith.txt 
+  733  gcc -fPIC -shared -o preload.so preload.c -ldl
+  734  LD_PRELOAD=./preload.so ./creat_test rohith11.txt 
+  735  LD_PRELOAD=./preload.so ./creat_test rohith111.txt 
+  736  LD_PRELOAD=./preload.so ./creat_test rohith1111.txt 
+  737  LD_PRELOAD=./preload.so ./creat_test rohith111.txt 
+  738  LD_PRELOAD=./preload.so ./creat_test rohith1111.txt 
+  739  gcc -fPIC -shared -o preload.so preload.c -ldl
+  740  LD_PRELOAD=./preload.so ./creat_test rohith1111.txt 
+  741  cd Desktop/git/Repo/Golang/exercises/
+  742  ls
+  743  cd Gravity-Flip/
+  744  go run gravity.go 
+  745  git add gravity.go 
+  746  git commit -m "Gravity Flip"
+  747  git push origin master
+  748  cd ..
+  749  cd C/
+  750  ls
+  751  cd Gravity-Flip/
+  752  git add gravity.c 
+  753  git commit -m "Gravity Flip"
+  754  git push origin master
+  755  cd Desktop/git/Repo/
+  756  cd BLS-Multisignature/BLS-grpc/
+  757  go run client2/server2_main.go 
+  758  go run server/server_main.go
+  759  cd server/
+  760  git add server_main.go
+  761  git commit -m "Error"
+  762  git push origin master
+  763  cd..
+  764  cd ..
+  765  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls/
+  766  go run client2/server2_main.go 
+  767  go rub server/server_main.go
+  768  go run server/server_main.go
+  769  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  770  go run server/server_main.go
+  771  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  772  go run server/server_main.go
+  773  go run client2/server2_main.go 
+  774  go run server/server_main.go
+  775  cd bls/
+  776  git add bls.p
+  777  git add bls.proto 
+  778  git rm -r bls.proto~
+  779  git commit -m "Removed .proto~"
+  780  git push origin master
+  781  git add bls.pb.go 
+  782  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  783  ls
+  784  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  785  cd ..
+  786  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  787  cd bls/
+  788  add bls.proto
+  789  git add bls.proto
+  790  git commit -m "Changed SendSignature Structure"
+  791  git push origin master
+  792  cd ..
+  793  cd bls/
+  794  git add bls.pb.go 
+  795  git commit -m "Protobuf"
+  796  git push origin master
+  797  cd ..
+  798  cd server/
+  799  git add server_main.go
+  800  git commit -m "Changed"
+  801  git push origin master
+  802  cd ..
+  803  cd client2/
+  804  git add server2_main.go 
+  805  git commit -m "Changed"
+  806  git push origin master
+  807  cd ..
+  808  cd client
+  809  git add client_main.go
+  810  git commit -m "Client"
+  811  ls
+  812  git rm -r client_main.go~
+  813  git commit -m "Removed main.go~"
+  814  git push origin master
+  815  cd Desktop/git/Repo/BLS-Multisignature/BLS/
+  816  ls
+  817  git pull
+  818  ls
+  819  cd ..
+  820  git pull
+  821  go run BLS/bls.go 
+  822  go run client/client_main.go
+  823  cd Desktop/gowork/src/google.golang.org/grpc/examples/bls/
+  824  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  825  go run server/server_main.go
+  826  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+  827  go run server/server_main.go
+  828  sudo apt-get update
+  829  sudo apt-get install vlc
+  830  sudo apt-get install mozilla-plugin-vlc
+  831  man sizeof
+  832  locate shadow
+  833  locate shadow.txt
+  834  sudo su
+  835  uname -a
+  836  man fgets
+  837  cd Desktop/git/Repo/C/Bachgold/
+  838  git add bachgold.c 
+  839  git commit -m "Bachgold Problem"
+  840  git push origin master
+  841  cd Desktop/git/Repo/C/Pattern/
+  842  git rm -r a.out 
+  843  git commit -m "Removed output file"
+  844  git push origin master
+  845  cd ..
+  846  cd CountingCards/
+  847  cd ..
+  848  cd
+  849  cd Desktop/git/Repo/Python-Exercises/Chtholly\'s-request/
+  850  ls
+  851  cd ..
+  852  cd C
+  853  cd Watermelon/
+  854  git add watermelon.c 
+  855  git commit -m "Completed watermelon problem from codeforces"
+  856  git push origin master
+  857  cd ..
+  858  cd Math/
+  859  git add math.c 
+  860  git commit -m "Helpful Maths problem from codeforces"
+  861  git push origin master
+  862  cd /home/maneesha/Desktop/
+  863  ls
+  864  cd finalreview/
+  865  cd open/
+  866  make ro_daemon
+  867  make open
+  868  ./ro_daemon
+  869  make open
+  870  make ro_daemon
+  871  ./ro_daemon 
+  872  cd ..
+  873  cd finalreview_1/
+  874  cd open/
+  875  make ro_daemon
+  876  make open
+  877  ./ro_daemon 
+  878  make open
+  879  ./ro_daemon 
+  880  make open
+  881  make ro_daemon
+  882  ./ro_daemon 
+  883  make ro_daemon
+  884  make open
+  885  ./ro_daemon 
+  886  make open
+  887  make ro_daemon
+  888  ./ro_daemon 
+  889  make ro_daemon
+  890  make open
+  891  ./ro_daemon 
+  892  make ro_daemon
+  893  make open
+  894  ./ro_daemon 
+  895  make open
+  896  ./ro_daemon 
+  897  make open
+  898  make ro_daemon
+  899  ./ro_daemon 
+  900  make ro_daemon
+  901  make open
+  902  ./ro_daemon 
+  903  make ro_daemon
+  904  ./ro_daemon 
+  905  gcc -fPIC -shared -o preload.so preload.c -ldl
+  906  sudo apt-get install capablity
+  907  sudo apt-get install libcap-dev
+  908  gcc -fPIC -shared -o preload.so preload.c -ldl
+  909  sudo apt-get update gcc
+  910  sudo apt-get update
+  911  gcc -fPIC -shared -o preload.so preload.c -ldl
+  912  LD_PRELOAD=./preload.so ./open rohith.txt 
+  913  cd ..
+  914  ls
+  915  cd ..
+  916  cd finalreview_1/
+  917  cd open/
+  918  gcc -fPIC -shared -o preload.so preload.c -ldl
+  919  LD_PRELOAD=./preload.so ./open rohith.txt 
+  920  gcc -fPIC -shared -o preload.so preload.c -ldl
+  921  LD_PRELOAD=./preload.so ./open rohith.txt 
+  922  gcc -fPIC -shared -o preload.so preload.c -ldl
+  923  LD_PRELOAD=./preload.so ./open rohith.txt 
+  924  gcc -fPIC -shared -o preload.so preload.c -ldl
+  925  LD_PRELOAD=./preload.so ./open rohith.txt 
+  926  gcc -fPIC -shared -o preload.so preload.c -ldl
+  927  LD_PRELOAD=./preload.so ./open rohith.txt 
+  928  gcc -fPIC -shared -o preload.so preload.c -ldl
+  929  LD_PRELOAD=./preload.so ./open rohith.txt 
+  930  gcc -fPIC -shared -o preload.so preload.c -ldl
+  931  LD_PRELOAD=./preload.so ./open rohith.txt 
+  932  gcc -fPIC -shared -o preload.so preload.c -ldl
+  933  LD_PRELOAD=./preload.so ./open rohith1.txt 
+  934  gcc -fPIC -shared -o preload.so preload.c -ldl
+  935  LD_PRELOAD=./preload.so ./open rohith1.txt 
+  936  gcc -fPIC -shared -o preload.so preload.c -ldl
+  937  LD_PRELOAD=./preload.so ./open rohith1.txt 
+  938  gcc -fPIC -shared -o preload.so preload.c -ldl
+  939  LD_PRELOAD=./preload.so ./open rohith1.txt 
+  940  make open
+  941  ./open rohith.txt
+  942  make open
+  943  gcc -fPIC -shared -o preload.so preload.c -ldl
+  944  LD_PRELOAD=./preload.so ./open rohith1.txt 
+  945  cd Desktop/
+  946  SSH users.deterlab.net
+  947  ssh users.deterlab.net
+  948  cd Desktop/git/Repo/BLS-Multisignature/BLS-grpc/multi/
+  949  ifconfig 
+  950  cd Desktop/krack/KRACK-toolkit-master/test/
+  951  cd ..
+  952  ls
+  953  cd attack-scripts/
+  954  ls
+  955  cd krackattack/
+  956  ls
+  957  chmod 777 krack-ft-test.py 
+  958  ls
+  959  sudo ./krack-ft-test.py 
+  960  krack-ft-test.py 
+  961  ./krack-ft-test.py 
+  962  gedit krack-ft-test.py 
+  963  ls
+  964  gedit krack-test-client.py 
+  965  cd /home/maneesha/Desktop/gowork/src/github.com/manishas053/BLS-Multisignature/BLS-grpc/multi
+  966  ls
+  967  cd server/
+  968  ls
+  969  vim server_main.go 
+  970  ls
+  971  cd ..
+  972  cd bls/
+  973  ls
+  974  cd ..
+  975  cd client
+  976  ls
+  977  cd ..
+  978  cd client2/
+  979  ls
+  980  go run server/server_main.go 
+  981  pwd
+  982  cd ..
+  983  ls
+  984  cd ..
+  985  ls
+  986  cd gowork/
+  987  ls
+  988  cd src/
+  989  ls
+  990  cd github.com/
+  991  ls
+  992  cd user/
+  993  ls
+  994  cd ..
+  995  mkdir manishas053
+  996  ls
+  997  cd manishas053/
+  998  lls
+  999  ls
+ 1000  clear
+ 1001  ls
+ 1002  git clone https://github.com/manishas053/BLS-Multisignature.git
+ 1003  ls
+ 1004  cd BLS-Multisignature/
+ 1005  pwd
+ 1006  ls
+ 1007  cd BLS-grpc/
+ 1008  ls
+ 1009  cd multi/
+ 1010  ls
+ 1011  atom .
+ 1012  ls
+ 1013  cd bls/
+ 1014  ls
+ 1015  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+ 1016  ls
+ 1017  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+ 1018  protoc -I bls.proto --go_out=plugins=grpc:bls
+ 1019  ls
+ 1020  cd ..
+ 1021  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+ 1022  go run client2/server2_main.go 
+ 1023  vim bls/bls.proto 
+ 1024  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+ 1025  go run client2/server2_main.go 
+ 1026  go run server/server_main.go 
+ 1027  vim server/server_main.go 
+ 1028  go run server/server_main.go 
+ 1029  vim server/server_main.go 
+ 1030  go run server/server_main.go 
+ 1031  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+ 1032  go run server/server_main.go 
+ 1033  ls
+ 1034  cd server/
+ 1035  git rm .server_main.go.swp 
+ 1036  rm -rf .server_main.go.swp 
+ 1037  ls
+ 1038  cd ..
+ 1039  cd client
+ 1040  ls
+ 1041  cd ..
+ 1042  cd client2/
+ 1043  ls
+ 1044  cd bls/
+ 1045  ls
+ 1046  cd ..
+ 1047  protoc -I bls/ bls/bls.proto --go_out=plugins=grpc:bls
+ 1048  go run server/server_main.go 
+ 1049  cd server/
+ 1050  go run server_main.go 
+ 1051  cd ..
+ 1052  go run client/client_main.go 
+ 1053  cd Desktop/gowork/src/google.golang.org/grpc/examples/reverse/
+ 1054  protoc -I reverse/ reverse/reverse.proto --go_out=plugins=grpc:reverse
+ 1055  go run greeter_server/main.go
+ 1056  go run greeter_client/main.go
+ 1057  go run node1/main.go
+ 1058  git rm helloworld 
+ 1059  git rm-r  helloworld 
+ 1060  git rm -r helloworld 
+ 1061  git commit -m "Removed proto file"
+ 1062  git push origin master
+ 1063  git rm -r node1
+ 1064  git commit -m "Removed client code"
+ 1065  git push origin master
+ 1066  git rm -r node2
+ 1067  git commmit -m "Removed server code"
+ 1068  git commit -m "Removed server code"
+ 1069  git push origin master
+ 1070  ls
+ 1071  cd signgle
+ 1072  cd single/
+ 1073  go run node1/main.go 
+ 1074  go run node2/main.go
+ 1075  cd ../../
+ 1076  cd BLS-Multisignature/BLS-grpc/multi/
+ 1077  go run client2/server2_main.go 
+ 1078  cd ../..
+ 1079  ccd BLS-Multisignature/BLS-grpc/multi/
+ 1080  cd BLS-Multisignature/BLS-grpc/multi/
+ 1081  go run client/client_main.go 
+ 1082  add *
+ 1083  git add *
+ 1084  git commit -m "GRPC with multiple client server "
+ 1085  git push origin master
+ 1086  cd -
+ 1087  cd Helloworld/multi/
+ 1088  git add *
+ 1089  git commit -m "GRPC with multiple client server"
+ 1090  git push origin master
+ 1091  go run node3/main.go 
+ 1092  cd Repo/BLS-Multisignature/SampleTree/
+ 1093  git add tree.go 
+ 1094  git commit -m "Sample tree to implement aggregation"
+ 1095  git push origin master
+ 1096  go run server1/main.go 
+ 1097  go run server/main.go 
+ 1098  cd ../../../
+ 1099  c d..
+ 1100  cd ..
+ 1101  cd bithin/
+ 1102  ls
+ 1103  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1104  go run server3/main.go 
+ 1105  cd ../..
+ 1106  cd gowork/src/github.com/bithinalangot/DistributedList/
+ 1107  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1108  go run server3/main.go 
+ 1109  go run server2/main.go 
+ 1110  go run client/main.go 
+ 1111  cd ../../../../
+ 1112  cd ..
+ 1113  cd gowork/src/github.com/bithinalangot/D
+ 1114  cd gowork/src/github.com/bithinalangot/DistributedList/
+ 1115  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1116  go run server3/main.go 
+ 1117  go run server2/main.go 
+ 1118  go run server1/main.go 
+ 1119  go run server/main.go 
+ 1120  cd ../../../../
+ 1121  cd ..
+ 1122  cd gowork/src/github.com/bithinalangot/DistributedList/
+ 1123  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1124  go run server3/main.go 
+ 1125  go run server2/main.go 
+ 1126  go run server3/main.go 
+ 1127  go run server1/main.go 
+ 1128  go run server2/main.go 
+ 1129  go run server/main.go 
+ 1130  go run server1/main.go 
+ 1131  go run server/main.go 
+ 1132  go run client/main.go 
+ 1133  go run server3/main.go 
+ 1134  cd ../../
+ 1135  cd manishas053/BLS-Multisignature/BLS-grpc/bls
+ 1136  git add *
+ 1137  git commit -m "gRPC to implement BLS multisignature"
+ 1138  gi push origin master
+ 1139  git push origin master
+ 1140  git pull
+ 1141  cd .
+ 1142  cd
+ 1143  cd Desktop/gowork/src/github.com/manishas053/
+ 1144  git clone https://github.com/manishas053/BLS-Multisignature.git
+ 1145  cd BLS-Multisignature/BLS-grpc/bls/
+ 1146  git add *
+ 1147  git commit -m "gRPC to implement BLS multisignature"
+ 1148  git push origin master
+ 1149  go run server2/main.go 
+ 1150  cd
+ 1151  cd Desktop/gowork/src/github.com/bithinalangot/DistributedList/
+ 1152  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1153  cd ..
+ 1154  cd bls/
+ 1155  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1156  go run server3/main.go 
+ 1157  ls
+ 1158  cd server2/
+ 1159  go run main.go 
+ 1160  cd ..
+ 1161  go run server3/main.go 
+ 1162  go run server2/main.go 
+ 1163  cd ../..
+ 1164  cd manishas053/BLS-Multisignature/BLS-grpc/bls/
+ 1165  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1166  cd Desktop/git/
+ 1167  go run tree.go 
+ 1168  go run copy.go 
+ 1169  go run tree.go 
+ 1170  go run copy.go 
+ 1171  go run tree.go 
+ 1172  clear
+ 1173  go run tree.go 
+ 1174  clear
+ 1175  go run tree.go 
+ 1176  cd Repo/Golang/data_structures/binarytree/
+ 1177  go run binarytree.go 
+ 1178  c d../.../../
+ 1179  cd ../../../
+ 1180  cd ..
+ 1181  cd Repo/BLS-Multisignature/
+ 1182  ls
+ 1183  cd BLS
+ 1184  ls
+ 1185  cd trq
+ 1186  cd tree/
+ 1187  ls
+ 1188  go run bls_tree.go 
+ 1189  g
+ 1190  cd
+ 1191  cd Desktop/gowork/src/github.com/manishas053/BLS-Multisignature/BLS/tree/
+ 1192  git add bls_tree.go 
+ 1193  git commit -m "Implementation of BLS Multisignature in tree"
+ 1194  git push origin master
+ 1195  go run server2/main.go 
+ 1196  go version
+ 1197  go run server1/main.go 
+ 1198  go run server3/main.go 
+ 1199  cd
+ 1200  cd Desktop/gowork/src/github.com/manishas053/BLS-Multisignature/BLS-grpc/bls/
+ 1201  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1202  cd Desktop/gowork/src/github.com/manishas053/BLS-Multisignature/SampleTree/
+ 1203  ls
+ 1204  cd ..
+ 1205  cd BLS
+ 1206  ls
+ 1207  cd tree/
+ 1208  ls
+ 1209  cd ..
+ 1210  cd BLS-grpc/
+ 1211  ls
+ 1212  cd bls/
+ 1213  ls
+ 1214  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1215  ls
+ 1216  go run server3/main.go 
+ 1217  go run server2/main.go 
+ 1218  go run server1/main.go 
+ 1219  go ru server/main.go 
+ 1220  go run server/main.go 
+ 1221  go run client/main.go 
+ 1222  cd ../../..
+ 1223  cd github.com/
+ 1224  cd bls/
+ 1225  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1226  go run server3/main.go 
+ 1227  go run server1/
+ 1228  go run server1/main.go 
+ 1229  go run server2/main.go 
+ 1230  go run server/main.go 
+ 1231  go run server1/main.go 
+ 1232  go run server/main.go 
+ 1233  go run client/main.go 
+ 1234  cd Desktop/gowork/src/github.com/bithinalangot/DistributedList/
+ 1235  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1236  go run server3/main.go 
+ 1237  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1238  cd ../../
+ 1239  cd DistributedList/
+ 1240  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1241  go run server4/main.go 
+ 1242  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1243  go run server6/main.go 
+ 1244  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1245  go run server6/main.go 
+ 1246  go run server2/main.go 
+ 1247  go run server3/main.go 
+ 1248  cd ../..
+ 1249  cd DistributedList/
+ 1250  go run server5/main.go 
+ 1251  go run server4/main.go 
+ 1252  go run server3/main.go 
+ 1253  go run server2/main.go 
+ 1254  go run server/main.go 
+ 1255  go run server1/main.go 
+ 1256  cd Desktop/gowork/src/github.com/manishas053/
+ 1257  git clone https://github.com/manishas053/DistributedList.git
+ 1258  cd DistributedList/
+ 1259  git add *
+ 1260  git commit -m "Sample program to implement gRPC with 7 nodes"
+ 1261  git push origin master
+ 1262  go run server/main.go 
+ 1263  cd Desktop/gowork/src/github.com/DistributedList/
+ 1264  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1265  go server6/main.go 
+ 1266  go run server6/main.go 
+ 1267  go server6/main.go 
+ 1268  go run server6/main.go 
+ 1269  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1270  go run server6/main.go 
+ 1271  git add *
+ 1272  cd ../manishas053/DistributedList/
+ 1273  go run server6/main.go 
+ 1274  git add *
+ 1275  ls
+ 1276  cd list/
+ 1277  git add list.p
+ 1278  git add list.proto 
+ 1279  cd ..
+ 1280  git add *
+ 1281  git clone https://github.com/manishas053/DistributedList.git
+ 1282  go run server6/main.go 
+ 1283  cd..
+ 1284  cd ..
+ 1285  cd DistributedList/
+ 1286  go run server6/main.go 
+ 1287  cd ../manishas053/
+ 1288  git clone https://github.com/manishas053/DistributedList.git
+ 1289  cd DistributedList/
+ 1290  git add *
+ 1291  git commit -m "Grpc program to implement aggregation"
+ 1292  git push origin master
+ 1293  go run server5/main.go 
+ 1294  go run server4/main.go 
+ 1295  go run server3/main.go 
+ 1296  go run server2/main.go 
+ 1297  go run server1/main.go 
+ 1298  go run client/main.go 
+ 1299  go run server/main.go 
+ 1300  go run client/
+ 1301  go run client/main.go 
+ 1302  cd Desktop/gowork/src/github.com/blstree/
+ 1303  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1304  go run server6/main.go 
+ 1305  go run server5/main.go 
+ 1306  go run server4/main.go 
+ 1307  go run server3/main.go 
+ 1308  go run server2/main.go 
+ 1309  go run server1/main.go 
+ 1310  go run server/main.go 
+ 1311  go run server/main.go 
+ 1312  go run server1/main.go 
+ 1313  cd ..
+ 1314  cd bls
+ 1315  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1316  go run server3/main.go 
+ 1317  go run server2/main.go 
+ 1318  go run server/main.go 
+ 1319  go run server1/main.go 
+ 1320  cd Desktop/gowork/src/github.com/blstree/
+ 1321  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1322  go run server6/main.go 
+ 1323  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1324  go run server6/main.go 
+ 1325  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1326  go run server6/main.go 
+ 1327  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1328  go run server6/main.go 
+ 1329  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1330  go run server6/main.go 
+ 1331  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1332  go run server6/main.go 
+ 1333  go run server5/main.go 
+ 1334  go run server4/main.go 
+ 1335  go run server3/main.go 
+ 1336  go run server2/main.go 
+ 1337  go run server/main.go 
+ 1338  go run client/main.go 
+ 1339  go run server1/main.go 
+ 1340  go run client/main.go 
+ 1341  cd ..
+ 1342  git clone https://github.com/manishas053/DistributedList.git
+ 1343  cd DistributedList/
+ 1344  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1345  go run server6/main.go 
+ 1346  go run server5/main.go 
+ 1347  go run server4/main.go 
+ 1348  go run server3/main.go 
+ 1349  go run server2/main.go 
+ 1350  go run server1/main.go 
+ 1351  go run server/main.go 
+ 1352  go run server3/main.go 
+ 1353  go run aggregation.go
+ 1354  cd Desktop/gowork/src/github.com/DistributedList/
+ 1355  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1356  go run server6/main.go 
+ 1357  protoc -I list/ list/list.proto --go_out=plugins=grpc:list
+ 1358  go run server6/main.go 
+ 1359  git add *
+ 1360  git commit -m "BLS multisignature aggregation"
+ 1361  git push origin master
+ 1362  go run server6/main.go 
+ 1363  ssh bithin@users.deterlab.net
+ 1364  go run server5/main.go 
+ 1365  go run server/main.go 
+ 1366  go run server5/main.go 
+ 1367  go run server/main.go 
+ 1368  go run server5/main.go 
+ 1369  ssh bithin@users.deterlab.net
+ 1370  go run server4/main.go 
+ 1371  ssh bithin@users.deterlab.net
+ 1372  go run server2/main.go 
+ 1373  go run server3/main.go 
+ 1374  ssh bithin@users.deterlab.net
+ 1375  go run server/m
+ 1376  go run server/main.go 
+ 1377  go run server2/main.go 
+ 1378  ssh bithin@users.deterlab.net
+ 1379  go run server1/main.go 
+ 1380  go run server/main.go 
+ 1381  ssh bithin@users.deterlab.net
+ 1382  go run client/main.go 
+ 1383  go run server1/main.go 
+ 1384  ssh bithin@users.deterlab.net
+ 1385  go run client/main.go 
+ 1386  git add *
+ 1387  git commit -m "Computed execution time"
+ 1388  cd ..
+ 1389  cd -
+ 1390  git push origin master
+ 1391  git rm -rf result.txt 
+ 1392  git rm -rf result1.txt 
+ 1393  git rm -rf result2.txt 
+ 1394  git rm -rf result3.txt
+ 1395  git rm -rf result4.txt
+ 1396  git rm -rf result5.txt
+ 1397  git rm -rf result6.txt
+ 1398  ls
+ 1399  git rm -rf aggregation.go
+ 1400  git rm -rf aggregation.go~
+ 1401  git add *
+ 1402  ls
+ 1403  git commmit -m "Removed junk files"
+ 1404  git commit -m "Removed junk files"
+ 1405  git push origin master
+ 1406  ssh bithin@users.deterlab.net
+ 1407  go run server6/main.go 
+ 1408  ssh bithin@users.deterlab.net
+ 1409  go --version
+ 1410  go
+ 1411  go verssion
+ 1412  go version
+ 1413  cd
+ 1414  vim .profile 
+ 1415  grep -rln "export GOPATH=" *
+ 1416  vim .bashrc 
+ 1417  ssh bithin@users.deterlab.net
+ 1418  go run server5/main.go 
+ 1419  echo $GOPATH
+ 1420  cd -
+ 1421  cd ../../
+ 1422  ls
+ 1423  vim ../../../.profile 
+ 1424  vim ../../../.bashrc 
+ 1425  echo $GOROOT
+ 1426  echo $GOPATH
+ 1427  go env
+ 1428  cd 
+ 1429  vim .bashrc 
+ 1430  ssh bithin@users.deterlab.net
+ 1431  go run server4/main.go 
+ 1432  ssh bithin@users.deterlab.net
+ 1433  go run server2/main.go 
+ 1434  ssh bithin@users.deterlab.net
+ 1435  go run server/main.go 
+ 1436  ssh bithin@users.deterlab.net
+ 1437  go run server3/main.go 
+ 1438  ssh bithin@users.deterlab.net
+ 1439  go run server1/main.go 
+ 1440  ssh bithin@users.deterlab.net
+ 1441  go run client/main.go 
+ 1442  ssh bithin@users.deterlab.net
+ 1443  vim .bashrc 
+ 1444  cd /usr/local/go/src/
+ 1445  ls
+ 1446  cd -
+ 1447  cd Desktop/gowork/src/github.com/
+ 1448  ls
+ 1449  cd Nik-U/
+ 1450  ls
+ 1451  vim pbc/element.go 
+ 1452  find . -name pbc.h
+ 1453  ls
+ 1454  history
+ 1455  history >> history.txt
